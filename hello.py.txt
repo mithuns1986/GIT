@@ -1,5 +1,3 @@
 Hello Guys 
 
 This is session #2
-
-We tried to install virtual box but failed with mouse integration
